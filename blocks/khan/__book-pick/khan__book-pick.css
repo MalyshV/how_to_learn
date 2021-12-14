@@ -1,0 +1,7 @@
+.khan__book-pick {
+  height: 620px;
+  width: 608px;
+  overflow: hidden;
+  object-fit: cover;
+  object-position: left top;
+}
