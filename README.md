@@ -17,4 +17,4 @@
 * Кейфреймы, анимации, трансформации с плавным переходом
 
 ------
-Ссылка на проект: https://malyshv.github.io/how-to-learn/
+Ссылка на проект: https://malyshv.github.io/how_to_learn/
